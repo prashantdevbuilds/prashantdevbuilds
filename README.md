@@ -10,17 +10,20 @@ I enjoy working across the development lifecycle, from planning and implementing
 
 ### SKILLSETRA — AIthon 2.0 Grand Finale
 
-My team, **ProVexa**, reached the Grand Finale and finished among the **Top 10 teams in India** at AIthon 2.0.
+My team, **ProVexa**, reached the AIthon 2.0 Grand Finale and finished among the **Top 10 teams in India**.
 
-I served as the Lead Full-Stack Developer and handled the majority of the project's development and broader execution.
+I served as the **Lead Full-Stack Developer**, handling the majority of SKILLSETRA's development and broader project execution while collaborating with my team.
 
 ## 🚀 Featured Project
 
-### SKILLSETRA
+### SKILLSETRA — AI-Powered Skill Intelligence
 
-An AI-powered skill intelligence and career development platform designed to help users assess their abilities, identify skill gaps, and work toward their target careers.
+An AI-powered skill intelligence and career development platform designed to help users assess their abilities, identify skill gaps, gather evidence of their skills, and work toward their target careers.
 
-- 🌐 [Try the Live Demo](https://skillsetra-lz2i.onrender.com)
+- 🌐 **Live Demo:** [Explore SKILLSETRA](https://skillsetra-lz2i.onrender.com/)
+- 🏆 **Achievement:** AIthon 2.0 Grand Finale — Top 10 Teams in India
+- 👥 **Team:** ProVexa
+- 💻 **My Role:** Lead Full-Stack Developer
 
 ## 💡 Areas of Interest
 
